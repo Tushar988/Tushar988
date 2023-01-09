@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tushar988
-- 👀 I’m interested in Android Dovelopment
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on making Android Apps
+- 👀 I’m interested in Game Dovelopment
+- 🌱 I’m currently learning Java & c#
+- 💞️ I’m looking to collaborate on making Games
 - 📫 How to reach me instragram-@tushartinker22
 
 <!---
